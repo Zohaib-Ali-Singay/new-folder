@@ -1,3 +1,3 @@
 Hello what you are doing ??
 
-# Conflicting Change in conflicting-change branch
+# New change and another change
